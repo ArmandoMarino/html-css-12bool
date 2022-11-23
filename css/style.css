@@ -1,0 +1,15 @@
+main{
+    
+}
+
+
+
+.row > [class^='col']{
+    min-height: 50px;
+    background-color: #006cfa;
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ffff;
+}
