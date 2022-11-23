@@ -13,3 +13,9 @@ main{
     align-items: center;
     border: 1px solid #ffff;
 }
+
+
+.col-6 >*{
+    background-color: #00e165;
+    
+}
