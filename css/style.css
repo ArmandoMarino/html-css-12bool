@@ -17,6 +17,10 @@ main{
 
 
 .col-6 >*{
-    background-color: #00e165;
-    
+    padding: 10px;
+}
+
+.row{
+    width: 100%;
+
 }
